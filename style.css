@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding:0px;
+}
+h1{
+    color:black;
+    margin-top: 2px;
+}
+body{
+    background-color: rgba(172, 175, 175, 0.359);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.box{
+    width:50%;
+    background-color: white;
+    height:300px;
+    border: 3px solid black;
+    outline: 5px dashed  rgb(18, 86, 3);
+}
+.inner-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.inner-box div{
+    margin-bottom:5px;
+}
+input{
+    width: 300px;
+    height:20px;
+}
+#start-button{
+    border-radius: 20px;
+    background-color: rgb(18, 86, 3);
+    color: white;
+    padding:10px;
+    width:100px;
+    font-weight: bolder;
+    margin:auto;
+    margin-top:65%;
+}
