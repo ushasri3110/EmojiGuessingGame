@@ -37,3 +37,5 @@ No external dependencies are required to run this game.
 - Clone or download the repository to your local machine.
 - Open the index.html file in a web browser.
 - Click the "Start" button to begin playing the game.
+## Demo
+https://github.com/ushasri3110/EmojiGuessingGame/assets/144483101/a58be0f8-af45-4575-958d-90ad323cedc3
